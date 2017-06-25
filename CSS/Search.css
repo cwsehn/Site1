@@ -1,0 +1,72 @@
+@import url('http://necolas.github.io/normalize.css/3.0.2/normalize.css');
+
+/*General*/
+body {
+  background: #fff;
+  max-width: 980px;
+  margin: 50px auto;
+  padding: 0 20px;
+  font: Helvetica Neue, Helvectica, Arial, serif;
+  font-weight: 300;
+  font-size: 1em;
+  line-height: 1.5em;
+  color: #8d9aa5;
+}
+
+
+
+h1, h2, h3 {
+  font-weight: 500;
+  color: #384047;
+}
+
+h1 {
+  font-size: 1.8em;
+  margin: 60px 0 40px;
+}
+
+h2 {
+    font-size: 1em;
+    font-weight: 300;
+    margin: 0;
+    padding: 10px 0 30px 0;
+}
+
+#menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+#menu ul li {
+  float: left;
+}
+
+#menu ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+#menu ul li a:hover {
+  background-color: #119911;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

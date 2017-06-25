@@ -13,7 +13,7 @@ function randomRGB () {
 	return rgbVal;
 }
 
-for ( var i = 0; i < 112; i++) {
+for ( var i = 0; i < 256; i++) {
 	html += '<div style="background-color:' + randomRGB() + '"></div>';
 }
 
